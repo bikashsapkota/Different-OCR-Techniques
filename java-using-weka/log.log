@@ -1,0 +1,6 @@
+May 24, 2018 7:51:44 PM Main action
+INFO: The model provided is created using binary images so the we recommend to use binary images for prediction
+May 24, 2018 7:51:54 PM Main action
+INFO: Generating Confusion Matrix
+May 24, 2018 7:51:58 PM Main action
+INFO: Model creation on progress, model will be stored on file model.ser
